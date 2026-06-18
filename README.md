@@ -16,6 +16,7 @@ YOLO-based object detection on Raspberry Pi + RFID navigation + IoT monitoring
 
 **Fake News Detection System**
 NLP binary classifier with >90% accuracy using TF-IDF + scikit-lea
+
 **Autonomous Maze Solving Robot**
 Real-time obstacle detection and PID-tuned path planning on Arduino
 
