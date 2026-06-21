@@ -11,13 +11,13 @@ AI/ML Engineer | ECE Graduate (GCEK) | Building real-world AI systems
 
 ### 🚀 Featured Projects
 
-**[AI-Powered Autonomous Medicine Delivery Robot](https://github.com/aswinrajendran/medicine-delivery-robot)**
+**[AI-Powered Autonomous Medicine Delivery Robot](https://github.com/aswinrajendrann/medicine-delivery-robot)**
 YOLO-based object detection on Raspberry Pi + RFID destination ID + IoT monitoring
 
-**[Fake News Detection System](https://github.com/aswinrajendran/fake-news-detection)**
+**[Fake News Detection System](https://github.com/aswinrajendrann/fake-news-detection)**
 NLP binary classifier using TF-IDF + scikit-learn
 
-**[Autonomous Maze Solving Robot](https://github.com/aswinrajendran/maze-solving-robot)**
+**[Autonomous Maze Solving Robot](https://github.com/aswinrajendrann/maze-solving-robot)**
 Left-wall-following navigation with PID-tuned motor control on Arduino
 
 ---
